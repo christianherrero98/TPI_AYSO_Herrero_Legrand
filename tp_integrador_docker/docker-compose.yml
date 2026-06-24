@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    image: contenedor_paises
+    volumes:
+      - ./datos:/app/datos
+    stdin_open: true # Esto reemplaza al -i
+    tty: true        # Esto reemplaza al -t
