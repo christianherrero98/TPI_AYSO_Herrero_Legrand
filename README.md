@@ -20,7 +20,7 @@ Cómo ejecutar el proyecto
 
 1  -Clonar este repositorio:
 Comando:
-git clone <URL-del-repositorio>
+git clone https://github.com/christianherrero98/TPI_AYSO_Herrero_Legrand
 cd tp_integrador_docker
 
 2 - Levantar el contenedor con Docker Compose:
